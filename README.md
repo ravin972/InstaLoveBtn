@@ -29,7 +29,7 @@ Follow these steps to get a copy of the project up and running on your local mac
 
 1. Clone this repository to your local machine.
 
-```git clone https://github.com/your-username/instagram-like-button.git```
+```git clone https://github.com/ravin972/InstaLoveBtn.git```
 
 
 2. Open the `index.html` file in your web browser to view the Instagram-like button.
@@ -46,7 +46,7 @@ You can customize the post content and icons by changing the SVG icons' URLs or 
 
 ## Authors
 
-- [Your Name](https://github.com/your-username)
+- [Your Name](https://github.com/ravin972/)
 
 ## License
 
